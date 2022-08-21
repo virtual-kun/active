@@ -1,0 +1,147 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: Activemandarin 
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline: 
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://activemandarin.id/links/logo.jpeg
+
+# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+Cover_Image: https://activemandarin.id/links/bg.jpg
+
+# SOCIAL MEDIA
+links:
+
+  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+    
+
+    # WHATSAPP
+  - Name: Hubungi kami
+     URL: https://wa.me
+     Username: '+6281368931870'
+     Color: '#25d366'
+     Icon-Class: fab fa-whatsapp
+
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: 
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: 
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
+    # TWITTER
+#  - Name: Twitter
+#    URL: https://twitter.com
+#    Username: 
+#    Color: '#1DA1F2'
+  #  Icon-Class: fab fa-twitter
+
+
+    
+    # LINKEDIN
+ #  - Name: LinkedIn
+  #   URL: https://www.linkedin.com/in
+  #   Username: 
+   #  Color: '#2867B2'
+   #  Icon-Class: fab fa-linkedin-in
+
+    # YOUTUBE
+    
+   #- Name: YouTube
+   #  URL: https://www.youtube.com/channel
+    # Username: UCS3zvA_2r1iGT7MB3NVCGAw
+    # Color: '#ff0000'
+    # Icon-Class: fab fa-youtube
+    
+
+
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+
+
+
+
+
+  #   # DISCORD
+  # - Name: Discord
+  #   URL: 'https://discord.gg'
+  #   Username: 
+  #   Icon-Class: fab fa-discord
+  #   Color: '#5865F2'
+  #   Text_Color: '#ffffff'
+
+
+
+  #   # DRIBBBLE
+  # - Name: Dribbble
+  #   URL: https://dribbble.com
+  #   Username: 
+  #   Color: '#ea4c89'
+  #   Icon-Class: fab fa-dribbble
+
+
+      # TIKTOK
+   - Name: TikTok
+    URL: https://www.tiktok.com
+     Username: 
+     Color: '#FE2C55'
+     Icon-Class: fab fa-tiktok
+
+
+
+
+    # CUSTOM LINK
+  - Name: Daftar harga
+    URL: https://.github.io/blog
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+  - Name: Blog
+    URL: https://github.com//links
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+footer: 'Yes'
+
+# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# Base URL
+# baseurl: /links
+
+# Default Markdown Engine
+markdown: kramdown
